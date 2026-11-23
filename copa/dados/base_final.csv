@@ -1,0 +1,194 @@
+cca3,pais,regiao,participacoes,populacao,ja_participou
+AFG,Afghanistan,Asia,0,40578842.0,False
+AGO,Angola,Africa,1,35635029.0,True
+ALB,Albania,Europe,0,2451636.0,False
+AND,Andorra,Europe,0,79705.0,False
+ARE,United Arab Emirates,Asia,1,10074977.0,True
+ARG,Argentina,Americas,18,45407904.0,True
+ARM,Armenia,Asia,0,2969200.0,False
+ATG,Antigua and Barbuda,Americas,0,92840.0,False
+AUS,Australia,Oceania,6,26018721.0,True
+AUT,Austria,Europe,7,9041851.0,True
+AZE,Azerbaijan,Asia,0,10141756.0,False
+BDI,Burundi,Africa,0,13321097.0,False
+BEL,Belgium,Europe,14,11680210.0,True
+BEN,Benin,Africa,0,13759501.0,False
+BFA,Burkina Faso,Africa,0,22509038.0,False
+BGD,Bangladesh,Asia,0,169384897.0,False
+BGR,Bulgaria,Europe,7,6465097.0,True
+BHR,Bahrain,Asia,0,1524693.0,False
+BHS,Bahamas,Americas,0,397538.0,False
+BIH,Bosnia and Herzegovina,Europe,1,3204802.0,True
+BLR,Belarus,Europe,0,9228071.0,False
+BLZ,Belize,Americas,0,402733.0,False
+BOL,Bolivia,Americas,3,12077154.0,True
+BRA,Brazil,Americas,22,210306415.0,True
+BRB,Barbados,Americas,0,282318.0,False
+BRN,Brunei,Asia,0,455370.0,False
+BTN,Bhutan,Asia,0,780914.0,False
+BWA,Botswana,Africa,0,2439892.0,False
+CAF,Central African Republic,Africa,0,5098039.0,False
+CAN,Canada,Americas,2,38950132.0,True
+CHE,Switzerland,Europe,12,8777088.0,True
+CHL,Chile,Americas,9,19553036.0,True
+CHN,China,Asia,1,1412175000.0,True
+CIV,Ivory Coast,Africa,3,30395002.0,True
+CMR,Cameroon,Africa,8,27632771.0,True
+COD,DR Congo,Africa,1,102396968.0,True
+COG,Congo,Africa,0,6035104.0,False
+COL,Colombia,Americas,6,51737944.0,True
+COM,Comoros,Africa,0,834188.0,False
+CPV,Cape Verde,Africa,0,519741.0,False
+CRI,Costa Rica,Americas,6,5081765.0,True
+CUB,Cuba,Americas,1,11059820.0,True
+CYP,Cyprus,Europe,0,1331370.0,False
+CZE,Czechia,Europe,9,10672118.0,True
+DEU,Germany,Europe,20,83177813.0,True
+DJI,Djibouti,Africa,0,1137096.0,False
+DMA,Dominica,Americas,0,66826.0,False
+DNK,Denmark,Europe,6,5903037.0,True
+DOM,Dominican Republic,Americas,0,11230734.0,False
+DZA,Algeria,Africa,4,45477389.0,True
+ECU,Ecuador,Americas,4,17823897.0,True
+EGY,Egypt,Africa,3,112618250.0,True
+ERI,Eritrea,Africa,0,3409447.0,False
+ESP,Spain,Europe,16,47786102.0,True
+EST,Estonia,Europe,0,1348840.0,False
+ETH,Ethiopia,Africa,0,125384287.0,False
+FIN,Finland,Europe,0,5556106.0,False
+FJI,Fiji,Oceania,0,919422.0,False
+FRA,France,Europe,16,68184457.0,True
+FSM,Micronesia,Oceania,0,112114.0,False
+GAB,Gabon,Africa,0,2430747.0,False
+GBR,England (dados do Reino Unido),Europe,16,67636000.0,True
+GEO,Georgia,Asia,0,3712502.0,False
+GHA,Ghana,Africa,4,33149152.0,True
+GIN,Guinea,Africa,0,14055137.0,False
+GMB,Gambia,Africa,0,2636470.0,False
+GNB,Guinea-Bissau,Africa,0,2105529.0,False
+GNQ,Equatorial Guinea,Africa,0,1803545.0,False
+GRC,Greece,Europe,3,10437805.0,True
+GRD,Grenada,Americas,0,116913.0,False
+GTM,Guatemala,Americas,0,17847877.0,False
+GUY,Guyana,Americas,0,821637.0,False
+HND,Honduras,Americas,3,10463872.0,True
+HRV,Croatia,Europe,6,3855641.0,True
+HTI,Haiti,Americas,1,11503606.0,True
+HUN,Hungary,Europe,9,9605074.0,True
+IDN,Indonesia,Asia,1,278830529.0,True
+IND,India,Asia,0,1425423212.0,False
+IRL,Ireland,Europe,3,5212836.0,True
+IRN,Iran,Asia,6,89524246.0,True
+IRQ,Iraq,Asia,1,44070551.0,True
+ISL,Iceland,Europe,1,382003.0,True
+ISR,Israel,Asia,1,9557500.0,True
+ITA,Italy,Europe,18,59013667.0,True
+JAM,Jamaica,Americas,1,2839144.0,True
+JOR,Jordan,Asia,0,11256263.0,False
+JPN,Japan,Asia,7,125124989.0,True
+KAZ,Kazakhstan,Asia,0,20034609.0,False
+KEN,Kenya,Africa,0,54252461.0,False
+KGZ,Kyrgyzstan,Asia,0,6975220.0,False
+KHM,Cambodia,Asia,0,17201724.0,False
+KIR,Kiribati,Oceania,0,130469.0,False
+KNA,Saint Kitts and Nevis,Americas,0,46709.0,False
+KOR,South Korea,Asia,11,51672569.0,True
+KWT,Kuwait,Asia,1,4589643.0,True
+LAO,Laos,Asia,0,7559007.0,False
+LBN,Lebanon,Asia,0,5744489.0,False
+LBR,Liberia,Africa,0,5373294.0,False
+LBY,Libya,Africa,0,7223805.0,False
+LCA,Saint Lucia,Americas,0,178781.0,False
+LIE,Liechtenstein,Europe,0,39493.0,False
+LKA,Sri Lanka,Asia,0,22181000.0,False
+LSO,Lesotho,Africa,0,2286110.0,False
+LTU,Lithuania,Europe,0,2831639.0,False
+LUX,Luxembourg,Europe,0,653103.0,False
+LVA,Latvia,Europe,0,1879383.0,False
+MAR,Morocco,Africa,6,37329064.0,True
+MCO,Monaco,Europe,0,38931.0,False
+MDA,Moldova,Europe,0,2528654.0,False
+MDG,Madagascar,Africa,0,30437261.0,False
+MDV,Maldives,Asia,0,524106.0,False
+MEX,Mexico,Americas,17,128613117.0,True
+MHL,Marshall Islands,Oceania,0,40077.0,False
+MKD,North Macedonia,Europe,0,1831712.0,False
+MLI,Mali,Africa,0,23072640.0,False
+MLT,Malta,Europe,0,531113.0,False
+MMR,Myanmar,Asia,0,53756787.0,False
+MNE,Montenegro,Europe,0,623591.0,False
+MNG,Mongolia,Asia,0,3433748.0,False
+MOZ,Mozambique,Africa,0,32656246.0,False
+MRT,Mauritania,Africa,0,4875637.0,False
+MUS,Mauritius,Africa,0,1262523.0,False
+MWI,Malawi,Africa,0,20568728.0,False
+MYS,Malaysia,Asia,0,34695493.0,False
+NAM,Namibia,Africa,0,2889662.0,False
+NER,Niger,Africa,0,25311973.0,False
+NGA,Nigeria,Africa,6,223150896.0,True
+NIC,Nicaragua,Americas,0,6730654.0,False
+NLD,Netherlands,Europe,11,17700982.0,True
+NOR,Norway,Europe,3,5457127.0,True
+NPL,Nepal,Asia,0,29715436.0,False
+NRU,Nauru,Oceania,0,11801.0,False
+NZL,New Zealand,Oceania,2,5081700.0,True
+OMN,Oman,Asia,0,4730226.0,False
+PAK,Pakistan,Asia,0,243700667.0,False
+PAN,Panama,Americas,1,4400773.0,True
+PER,Peru,Americas,5,33475438.0,True
+PHL,Philippines,Asia,0,113964338.0,False
+PLW,Palau,Oceania,0,17759.0,False
+PNG,Papua New Guinea,Oceania,0,10203169.0,False
+POL,Poland,Europe,9,36821749.0,True
+PRK,North Korea,Asia,2,26328845.0,True
+PRT,Portugal,Europe,8,10434332.0,True
+PRY,Paraguay,Americas,8,6760464.0,True
+QAT,Qatar,Asia,1,2657333.0,True
+ROU,Romania,Europe,7,19048502.0,True
+RUS,Russia,Europe,11,144236933.0,True
+RWA,Rwanda,Africa,0,13651030.0,False
+SAU,Saudi Arabia,Asia,6,32175224.0,True
+SDN,Sudan,Africa,0,49383346.0,False
+SEN,Senegal,Africa,3,17651103.0,True
+SGP,Singapore,Asia,0,5637022.0,False
+SLB,Solomon Islands,Oceania,0,781066.0,False
+SLE,Sierra Leone,Africa,0,8276807.0,False
+SLV,El Salvador,Americas,2,6280319.0,True
+SMR,San Marino,Europe,0,33755.0,False
+SOM,Somalia,Africa,0,17801897.0,False
+SRB,Serbia,Europe,13,6664449.0,True
+SSD,South Sudan,Africa,0,11021177.0,False
+STP,São Tomé and Príncipe,Africa,0,226305.0,False
+SUR,Suriname,Americas,0,623164.0,False
+SVK,Slovakia,Europe,1,5431752.0,True
+SVN,Slovenia,Europe,2,2112076.0,True
+SWE,Sweden,Europe,12,10486941.0,True
+SWZ,Eswatini,Africa,0,1218917.0,False
+SYC,Seychelles,Africa,0,119878.0,False
+SYR,Syria,Asia,0,22462173.0,False
+TCD,Chad,Africa,0,18455316.0,False
+TGO,Togo,Africa,1,8068616.0,True
+THA,Thailand,Asia,0,71735329.0,False
+TJK,Tajikistan,Asia,0,10182222.0,False
+TKM,Turkmenistan,Asia,0,7230193.0,False
+TLS,Timor-Leste,Asia,0,1369295.0,False
+TON,Tonga,Oceania,0,105042.0,False
+TTO,Trinidad and Tobago,Americas,1,1365805.0,True
+TUN,Tunisia,Africa,6,12119334.0,True
+TUR,Türkiye,Asia,2,84979913.0,True
+TUV,Tuvalu,Oceania,0,9992.0,False
+TZA,Tanzania,Africa,0,64711821.0,False
+UGA,Uganda,Africa,0,47312719.0,False
+UKR,Ukraine,Europe,1,41048766.0,True
+URY,Uruguay,Americas,14,3390913.0,True
+USA,United States,Americas,11,333996304.0,True
+UZB,Uzbekistan,Asia,0,34938955.0,False
+VCT,Saint Vincent and the Grenadines,Americas,0,102046.0,False
+VEN,Venezuela,Americas,0,28213017.0,False
+VNM,Vietnam,Asia,0,99680655.0,False
+VUT,Vanuatu,Oceania,0,313046.0,False
+WSM,Samoa,Oceania,0,215261.0,False
+YEM,Yemen,Asia,0,38222876.0,False
+ZAF,South Africa,Africa,3,62378410.0,True
+ZMB,Zambia,Africa,0,20152938.0,False
+ZWE,Zimbabwe,Africa,0,16069056.0,False
